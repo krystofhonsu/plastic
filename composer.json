@@ -1,19 +1,19 @@
 {
-  "name": "bm2ilabs/plastic",
+  "name": "krystofhonsu/plastic",
   "license": "MIT",
   "description": "Plastic is an Elasticsearch ODM and mapper for Laravel. It renders the developer experience more enjoyable while using Elasticsearch by providing a fluent syntax for mapping , querying and storing eloquent models.",
   "keywords": ["elasticsearch","elastic","laravel","eloquent","model","ODM","mapper"],
   "homepage": "https://github.com/sleimanx2/plastic",
   "authors": [
     {
-      "name": "Sleiman Sleiman",
-      "email": "sleiman@outlook.com",
+      "name": "Krystof Honsu",
+      "email": "krystof.honsu@gmail.com",
       "role": "Developer"
     }
   ],
   "require": {
     "php": ">=7.0",
-    "elasticsearch/elasticsearch": "~5.3.0",
+    "elasticsearch/elasticsearch": "~5.4.0",
     "ongr/elasticsearch-dsl": "5.*",
     "illuminate/container": "5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*",
     "illuminate/contracts": "5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*",
